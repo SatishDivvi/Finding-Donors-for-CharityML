@@ -20,6 +20,8 @@ Following Steps are performed in sequence:
 
 ### References
 
+- **Introduction to Machine Learning with Python: A Guide for Data Scientists, ISBN: 978-1449369415**
+
 ### Author
 
 Divvi Naga Venkata Satish - [Portfolio](https://satishdivvi.github.io)
