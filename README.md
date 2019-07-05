@@ -6,6 +6,18 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 ### Steps:
 
+Following Steps are performed in sequence:
+
+    - Exploring the Data
+    - Preparing the Data
+    - Evaluating Naive Predictor Performance
+    - Creating a Training and Predicting Pipeline
+    - Model Evaluation of Selected Supervised Models
+    - Choosing the Best Model
+    - Model Tuning
+    - Extracting Feature Importance
+    - Feature Selection
+
 ### Project Execution:
 
 ### Author
