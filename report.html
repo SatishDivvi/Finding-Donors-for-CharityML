@@ -2,7 +2,7 @@
 <html>
 <head><meta charset="utf-8" />
 
-<title>Finding_Donors_For_CharityML</title>
+<title>finding_donors</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13971,6 +13971,10 @@ It is a ratio of true positives(words classified as spam, and which are actually
 <li><strong>Weaknesses:</strong> does not perform well when boundary is non-linear, Unable to capture the complex relationships between the features.</li>
 <li>Logistic Regression is a good candidate in a current problem as the outcome of the evaluation is to predict 1 if income is &gt;50K and predict 0 if income is &lt;=50K which is nothing but the binary classification problem.</li>
 </ul>
+<p><strong>References:</strong></p>
+<ul>
+<li>Book - Introduction to Machine Learning with Python: A Guide for Data Scientists, ISBN: 978-1449369415</li>
+</ul>
 
 </div>
 </div>
@@ -14212,6 +14216,8 @@ LogisticRegression trained on 36177 samples.
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><strong>Answer:</strong></p>
 <p>At each training step Logistic Regression tries to find the relationship between the dependant variable which is <em>income</em> here and independant variables which are the <em>features</em> such as age, education etc in order to predict whether the individual has income <code>&gt;$50K</code> or <code>&lt;=$50K</code>. It will then find the probability of these two in each target class which is <code>0</code> and <code>1</code> and the one with the high probablity is then picked up for that particular individual. When the new information is fed in such as new individual with appropriate income into the classifer then the model will try to predict the target class based on it's value.</p>
+<p><strong>References:</strong></p>
+<p>Book - Introduction to Machine Learning with Python: A Guide for Data Scientists, ISBN: 978-1449369415</p>
 
 </div>
 </div>
