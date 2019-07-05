@@ -20,7 +20,7 @@ Following Steps are performed in sequence:
 
 ### References
 
-- **Introduction to Machine Learning with Python: A Guide for Data Scientists, ISBN: 978-1449369415**
+- **Book - Introduction to Machine Learning with Python: A Guide for Data Scientists, ISBN: 978-1449369415**
 
 ### Author
 
