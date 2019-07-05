@@ -18,8 +18,6 @@ Following Steps are performed in sequence:
     - Extracting Feature Importance
     - Feature Selection
 
-### Project Execution:
-
 ### Author
 
 Divvi Naga Venkata Satish - [Portfolio](https://satishdivvi.github.io)
